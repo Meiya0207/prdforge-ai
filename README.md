@@ -2,6 +2,10 @@
 
 **Turn product ideas into structured PRDs in seconds.**
 
+## Live Demo
+
+View the live project here: https://prdforge-ai-git-main-meiya0207-s-projects.vercel.app/
+
 PRDForge AI is a polished, beginner-friendly React portfolio project for aspiring AI Product Managers. It helps users transform a rough product idea into a structured Product Requirements Document with MVP scope, user stories, success metrics, roadmap, risks, and PM reasoning.
 
 This is an MVP project. It does not use a backend or real AI API yet. The generation flow is intentionally powered by local mock logic so the project stays easy to understand, run, and extend.
